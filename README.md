@@ -1,3 +1,19 @@
+Funny things:
+===
+
+* ![Snipaste_2021-07-14_22-52-57.png](https://i.loli.net/2021/07/14/jTrLmKzGJp4gESk.png)
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/UnkownICE/ice.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
