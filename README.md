@@ -1,3 +1,7 @@
+Funny things:
+===
+
+![Snipaste_2021-07-14_22-52-57.png](https://i.loli.net/2021/07/14/jTrLmKzGJp4gESk.png)
 
 
 ## Welcome to GitHub Pages
@@ -8,10 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
-Funny things:
-===
 
-* ![Snipaste_2021-07-14_22-52-57.png](https://i.loli.net/2021/07/14/jTrLmKzGJp4gESk.png)
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
